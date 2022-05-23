@@ -6,7 +6,7 @@ const TypeWriter = () => {
         <div>
             <div className='font-space' >
             <Typewriter className=''onInit = { (typewriter) => { typewriter
-                        .typeString('Fontend _ Developer')
+                        .typeString(' Fontend _ Developer')
                         .pauseFor(2000)
                         .deleteAll()
                         .typeString(' Backend _ Developer')
